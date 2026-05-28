@@ -113,7 +113,7 @@ streamlit run app.py
 
 ## Riya Dey
 
-BCA Graduate | Aspiring Python Developer & ML Enthusiast
+BCA 4th Year Student | Aspiring Python Developer & ML Enthusiast
 
 * GitHub: https://github.com/Riya6567
 * LinkedIn: https://linkedin.com/in/riya-dey-9a3556358
